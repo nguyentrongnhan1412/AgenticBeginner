@@ -1,0 +1,12 @@
+langgraph
+deepagents
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+faiss-cpu
+pypdf
+modal
+pandas
+openpyxl
+python-dotenv
